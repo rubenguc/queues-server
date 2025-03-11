@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "queue-server",
   "private": true,
   "scripts": {
     "build": "turbo run build",
